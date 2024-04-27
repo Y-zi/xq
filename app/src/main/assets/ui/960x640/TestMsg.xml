@@ -1,0 +1,14 @@
+<Panel Rect="200,100,196,45">
+	<Static Name="staMsg"
+		Rect="12,11,104,24"
+		Text="xxyy"
+		AlignH="2"
+		AlignV="2"/>
+	<Button Name="btnInc"
+		Rect="126,11,24,24"
+		Text="+"/>
+	<Button Name="btnDec"
+		Rect="157,11,24,24"
+		Text="-"/>
+</Panel>
+

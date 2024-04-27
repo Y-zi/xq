@@ -1,0 +1,50 @@
+<Animations>
+  <Animation name="role_default">
+    <frame>
+      <image>data/ui/default/role.png</image>
+      <rotated>false</rotated>
+      <rect>{{0,0},{43,85}}</rect>
+      <offset>{0,40}</offset>
+      <size>{43,85}</size>
+    </frame>
+  </Animation>
+  <Animation name="4dalibao01">
+    <frame>
+      <image>data/ui/main/4dalibao01.png</image>
+      <rotated>false</rotated>
+      <rect>{{0,0},{93,86}}</rect>
+      <offset>{0,0}</offset>
+      <size>{93,86}</size>
+    </frame>
+  </Animation>
+  <Animation name="10btn">
+    <frame>
+      <image>data/ui/btn/10btnnormal.png</image>
+      <rotated>false</rotated>
+      <rect>{{0,0},{125,58}}</rect>
+      <offset>{0,0}</offset>
+      <size>{125,58}</size>
+    </frame>
+    <frame>
+      <image>data/ui/btn/10btnclick.png</image>
+      <rotated>false</rotated>
+      <rect>{{0,0},{125,58}}</rect>
+      <offset>{0,0}</offset>
+      <size>{125,58}</size>
+    </frame>
+    <frame>
+      <image>data/ui/btn/10btnunclick.png</image>
+      <rotated>false</rotated>
+      <rect>{{0,0},{125,58}}</rect>
+      <offset>{0,0}</offset>
+      <size>{125,58}</size>
+    </frame>
+    <frame>
+      <image>data/ui/btn/10btnclick.png</image>
+      <rotated>false</rotated>
+      <rect>{{0,0},{125,58}}</rect>
+      <offset>{0,0}</offset>
+      <size>{125,58}</size>
+    </frame>
+  </Animation>
+</Animations>

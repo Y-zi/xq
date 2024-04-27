@@ -1,0 +1,23 @@
+<Dialog Rect="109,119,302,309"
+		Drag="1"
+		WireFrame="1">
+	<Button Name="btnClose"
+		Rect="277,4,21,21"
+		Text="X"/>
+	<Panel Name="pnlTestMsg"
+		Rect="102,30,196,45"
+		Templ="TestMsg"/>
+	<Static Name="staTitle"
+		Rect="4,4,209,21"/>
+	<Static Name="staTotal"
+		Rect="17,41,65,24"/>
+	<Button Name="btnNew"
+		Rect="218,4,54,21"
+		Text="New"/>
+	<Page Name="pgeTest"
+		Rect="4,111,294,193"
+		ItemView="TestPageItem"/>
+	<Static Name="staMsg"
+		Rect="4,81,294,24"/>
+</Dialog>
+

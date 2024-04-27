@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">寻秦</string>
+    <string name="my_game_cancel">取消</string>
+    <string name="my_game_confirm">确认</string>
+    <string name="my_game_exit_tip">确定要退出吗?</string>
+    <string name="my_game_memory_lower">手机可用存储空间不足</string>
+    <string name="my_game_network_none">网络连接不可用，是否进行设置？</string>
+    <string name="my_game_no_sdcard">未检测到SD卡</string>
+    <string name="my_game_sd_memory_lower">SD卡可用存储空间不足</string>
+    <string name="my_game_sdcard_shared">SD卡被用于大容量存储，请先退出此状态...</string>
+    <string name="my_game_tip">提示</string>
+    <string name="my_game_unzip_res">正在解压资源，不会消耗流量，总进度%d%%</string>
+    <string name="my_game_unzip_res_fail">释放资源到手机内存中失败</string>
+    <string name="my_game_unzip_res_sd_fail">释放资源到SD卡中失败</string>
+    <string name="my_game_webview_uploadimage_pho">拍照</string>
+    <string name="my_game_webview_uploadimage_pic">图片</string>
+</resources>

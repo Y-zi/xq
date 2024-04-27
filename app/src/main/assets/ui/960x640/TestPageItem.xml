@@ -1,0 +1,8 @@
+<Panel Rect="200,99,294,128">
+	<Static Name="staText"
+		Rect="14,12,267,67"
+		Rich="1"/>
+	<Button Name="btnSelect"
+		Rect="104,90,84,26"/>
+</Panel>
+

@@ -1,0 +1,137 @@
+<Config>
+
+<!--零散数据配置-->
+<NormalInfo>
+  <DefaultPath>960x640</DefaultPath>         <!--xml文件在对应的目录找不到时,到该默认目录查收-->
+  <DefaultFontSize>20</DefaultFontSize>
+  <UIAccSpeed>-0.001</UIAccSpeed>            <!--界面惯性滚动的加速度-->
+  <DragMinOffset>15</DragMinOffset>          <!--产生拖动效果的最小拖动距离,避免点击时也产生拖动效果-->
+  <CloseClickTop>1</CloseClickTop>           <!--点中界面时,是否将该界面提前-->
+  <BtnClickSound>Audio/Button.ogg</BtnClickSound>         <!--按钮的通用点击音效-->
+  <BtnDisableSound></BtnDisableSound>
+  <DialogOpenSound></DialogOpenSound>
+  <PromptSucSound>Audio/PromptSuc.ogg</PromptSucSound>
+  <PromptFailedSound>Audio/PromptFailed.ogg</PromptFailedSound>
+  <UIFontAnti>1</UIFontAnti>								<!--抗锯齿-->
+  <UIPickupTime>80</UIPickupTime>							<!--拾取图片响应时间ms-->
+</NormalInfo>
+
+<VisionInfo>
+  <DefaultOpen>0</DefaultOpen>     <!--打开窗口的默认效果 0：无 1：从中间缩放，淡入、淡出效果 2：从下往上，淡入、淡出效果 3：弹出效果-->
+  <DefaultClose>0</DefaultClose>   <!--关闭窗口的默认效果-->
+  <Vision_1>200,200</Vision_1>      	 <!--从中间缩放，参数：打开时间，关闭时间-->
+  <Vision_2>200,200</Vision_2>    		 <!--从从下往上缩放，参数：打开时间，关闭时间-->
+  <Vision_3>300,300</Vision_3>  			 <!--左到右弹出：参数：打开时间，关闭时间-->
+  <Vision_4>300,300</Vision_4>  			 <!--右到左弹出：参数：打开时间，关闭时间-->
+  <Vision_5>300,300</Vision_5>  			 <!--上到下弹出：参数：打开时间，关闭时间-->
+  <Vision_6>300,300</Vision_6>  			 <!--下到上弹出：参数：打开时间，关闭时间-->
+</VisionInfo>
+
+<!--路径信息-->
+<PathContentInfo>
+  <OnePath>
+    <Path>960x640</Path>
+    <Size>960,640</Size>
+    <FontSize>20</FontSize>
+	<TextOffset>0,4</TextOffset>
+  </OnePath>
+  <OnePath>
+    <Path>1024x768</Path>
+    <Size>1024,768</Size>
+    <FontSize>16</FontSize>
+	<TextOffset>0,3</TextOffset>
+  </OnePath>
+  <OnePath>
+    <Path>1280x600</Path>
+    <Size>1280,600</Size>
+    <FontSize>16</FontSize>
+	<TextOffset>0,3</TextOffset>
+  </OnePath>
+</PathContentInfo>
+
+<!--手机平台信息-->
+<PlatformInfo>
+  <Platform>
+    <Size>1024,768</Size>
+    <Path>1024x768</Path>
+    <FontSize>16</FontSize>
+	<TextOffset>0,4</TextOffset>
+    <AnchorCenterOffset>0,0</AnchorCenterOffset>
+    <MapFontSize>16</MapFontSize>
+  </Platform>
+
+  <Platform>
+    <Size>960,640</Size>
+    <Path>960x640</Path>
+    <FontSize>20</FontSize>
+	<TextOffset>0,4</TextOffset>
+    <AnchorCenterOffset>0,0</AnchorCenterOffset>
+    <MapFontSize>20</MapFontSize>
+  </Platform>
+
+  <Platform>
+    <Size>1136,640</Size>
+    <Path>960x640</Path>
+    <FontSize>20</FontSize>
+	<TextOffset>0,4</TextOffset>
+    <AnchorCenterOffset>0,0</AnchorCenterOffset>
+    <MapFontSize>20</MapFontSize>
+  </Platform>
+
+ 
+  <Platform>
+    <Size>480,320</Size>
+    <Path>960x640</Path>
+    <FontSize>10</FontSize>     <!--可配置为0,则表示根据比例自动计算字体的大小-->
+	<TextOffset>0,2</TextOffset>
+    <AnchorCenterOffset>0,0</AnchorCenterOffset>
+    <MapFontSize>10</MapFontSize>
+  </Platform>
+  
+  <Platform>
+    <Size>800,480</Size>
+    <Path>960x640</Path>
+    <FontSize>15</FontSize>
+	<TextOffset>0,3</TextOffset>
+    <AnchorCenterOffset>0,0</AnchorCenterOffset>
+    <MapFontSize>15</MapFontSize>
+  </Platform>
+  
+    <Platform>
+    <Size>854,480</Size>
+    <Path>960x640</Path>
+    <FontSize>15</FontSize>
+	<TextOffset>0,3</TextOffset>
+    <AnchorCenterOffset>0,0</AnchorCenterOffset>
+    <MapFontSize>15</MapFontSize>
+  </Platform>
+  
+      <Platform>
+    <Size>320,240</Size>
+    <Path>960x640</Path>
+    <FontSize>7</FontSize>
+	<TextOffset>0,3</TextOffset>
+    <AnchorCenterOffset>0,0</AnchorCenterOffset>
+    <MapFontSize>7</MapFontSize>
+  </Platform>
+
+    <Platform>
+    <Size>1280,600</Size>
+    <Path>1280x600</Path>
+    <FontSize>16</FontSize>
+	<TextOffset>0,3</TextOffset>
+    <AnchorCenterOffset>0,20</AnchorCenterOffset>
+    <MapFontSize>16</MapFontSize>
+  </Platform>
+
+  <Platform> <!--编辑器用的配置-->
+    <Size>1400,840</Size>
+    <Path>960x640</Path>
+    <FontSize>12</FontSize>
+	<TextOffset>0,3</TextOffset>
+    <AnchorCenterOffset>0,0</AnchorCenterOffset>
+    <MapFontSize>12</MapFontSize>
+  </Platform>
+</PlatformInfo>
+
+</Config>

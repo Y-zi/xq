@@ -107,7 +107,7 @@ public class BorderRelativeLayout extends RelativeLayout {
 }
 
 
-/* Location:              C:\Users\spirit\Desktop\xq\tool\classes-dex2jar.jar!\com\xqj\game\\utils\BorderRelativeLayout.class
+/* Location:              \xq\tool\classes-dex2jar.jar!\com\xqj\game\\utils\BorderRelativeLayout.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */

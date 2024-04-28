@@ -528,7 +528,7 @@ public class Cocos2dxHelper {
 }
 
 
-/* Location:              C:\Users\spirit\Desktop\xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxHelper.class
+/* Location:              \xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxHelper.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */

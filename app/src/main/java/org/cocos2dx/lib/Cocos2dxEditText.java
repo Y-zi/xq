@@ -33,7 +33,7 @@ public class Cocos2dxEditText extends EditText {
 }
 
 
-/* Location:              C:\Users\spirit\Desktop\xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxEditText.class
+/* Location:              \xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxEditText.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */

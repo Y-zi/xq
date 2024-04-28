@@ -142,7 +142,7 @@ public class Cocos2dxRenderer implements GLSurfaceView.Renderer {
 }
 
 
-/* Location:              C:\Users\spirit\Desktop\xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxRenderer.class
+/* Location:              \xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxRenderer.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */

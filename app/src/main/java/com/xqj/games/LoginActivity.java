@@ -24,7 +24,7 @@ public class LoginActivity extends Activity {
 }
 
 
-/* Location:              C:\Users\spirit\Desktop\xq\tool\classes-dex2jar.jar!\com\xqj\games\LoginActivity.class
+/* Location:              \xq\tool\classes-dex2jar.jar!\com\xqj\games\LoginActivity.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */

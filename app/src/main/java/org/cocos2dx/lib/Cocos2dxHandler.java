@@ -79,7 +79,7 @@ public class Cocos2dxHandler extends Handler {
 }
 
 
-/* Location:              C:\Users\spirit\Desktop\xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxHandler.class
+/* Location:              \xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxHandler.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */

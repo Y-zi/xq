@@ -357,7 +357,7 @@ public class Cocos2dxBitmap {
 }
 
 
-/* Location:              C:\Users\spirit\Desktop\xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxBitmap.class
+/* Location:              \xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxBitmap.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */

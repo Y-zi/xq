@@ -35,7 +35,7 @@ public class CheckNetworkState implements Runnable, RMConstDefine {
 }
 
 
-/* Location:              C:\Users\spirit\Desktop\xq\tool\classes-dex2jar.jar!\com\xqj\games\CheckNetworkState.class
+/* Location:              \xq\tool\classes-dex2jar.jar!\com\xqj\games\CheckNetworkState.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */

@@ -355,7 +355,7 @@ public class Cocos2dxGLSurfaceView extends GLSurfaceView {
 }
 
 
-/* Location:              C:\Users\spirit\Desktop\xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxGLSurfaceView.class
+/* Location:              \xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxGLSurfaceView.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */

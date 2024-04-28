@@ -154,7 +154,7 @@ public abstract class Cocos2dxActivity extends Activity implements Cocos2dxHelpe
 }
 
 
-/* Location:              C:\Users\spirit\Desktop\xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxActivity.class
+/* Location:              \xq\tool\classes-dex2jar.jar!\org\cocos2dx\lib\Cocos2dxActivity.class
  * Java compiler version: 6 (50.0)
  * JD-Core Version:       1.1.3
  */
